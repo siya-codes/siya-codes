@@ -15,7 +15,7 @@ I’m Shreya — a *Full-Stack Developer & Machine Learning Enthusiast* currentl
 I love building meaningful projects, solving real problems through code, and exploring modern web stacks & ML tools.  
 Previously at *DRDO, I worked on security systems to prevent SQL injection attacks, improving system safety by **70%+*.
 
-<img align="right" alt="Coding Girl" src="./assets/coding.webp" width="300px" />
+<img align="right" alt="Coding Girl" src="./assets/pengu-pudgy.gif" width="260px" height="500px" />
 
 ---
 
